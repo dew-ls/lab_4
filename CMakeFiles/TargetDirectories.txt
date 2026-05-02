@@ -1,0 +1,3 @@
+/home/timp/workspace/tasks/lab03/CMakeFiles/hello_world.dir
+/home/timp/workspace/tasks/lab03/CMakeFiles/edit_cache.dir
+/home/timp/workspace/tasks/lab03/CMakeFiles/rebuild_cache.dir
